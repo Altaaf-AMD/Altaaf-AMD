@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Altaaf-AMD
 - 👀 I’m interested in Sotware Engineering
 - 🌱 I’m currently learning ReactTS
-- 💞️ I’m looking to collaborate on AMD Projects
 - 📫 How to reach me: {Email: Altaaf.Jahankeer@amd.com, Phone Number: [416] 271-6177}
 
 <!---
